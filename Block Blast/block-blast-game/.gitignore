@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+tmp/
+temp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+coverage/
+
+# Env files
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# Build files
+ios/
+android/
+
+# EAS
+.eas/
+EOF < /dev/null
